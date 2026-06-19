@@ -4,7 +4,9 @@ Projeto desenvolvido com HTML, CSS e JavaScript para apresentar minha trajetóri
 
 ## Aplicação em Produção
 
-🚧 Deploy em andamento.
+O projeto está disponível para acesso através do GitHub Pages:
+
+🔗 https://tahlly.github.io/portfolio-pessoal/
 
 ## Demonstração
 
@@ -54,6 +56,7 @@ Ou utilize a extensão Live Server do VS Code.
 
 ## Estrutura do Projeto
 
+```text
 portfolio-pessoal/
 ├── index.html
 ├── css/
@@ -62,6 +65,7 @@ portfolio-pessoal/
 │   ├── demo.gif
 │   └── mobile.gif
 └── README.md
+```
 
 ## Autor
 
